@@ -10,7 +10,8 @@ This is a simple CRUD application built using the MEAN (MongoDB, Express, Angula
 Set your [Atlas URI connection string](https://docs.atlas.mongodb.com/getting-started/) as a parameter in `server/.env`. Make sure you replace the username and password placeholders with your own credentials.
 
 ```
-ATLAS_URI=mongodb+srv://<username>:<password>@sandbox.jadwj.mongodb.net/meanStackExample?retryWrites=true&w=majority
+CAmbiamos la uri para el feature2
+tambien hacemos otro commit
 ```
 
 Start the server and client applications:
